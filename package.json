@@ -52,5 +52,8 @@
     "key rotator",
     "api key",
     "key"
-  ]
+  ],
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
 }
