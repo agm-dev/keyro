@@ -1,13 +1,13 @@
 # keyro - key rotation utility
 
 [![Build Status](https://travis-ci.org/agm-dev/keyro.svg?branch=master)](https://travis-ci.org/agm-dev/keyro)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/UPDATE_WITH_CODACY_ID)](https://www.codacy.com/manual/agm-dev/keyro?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=agm-dev/keyro&amp;utm_campaign=Badge_Grade)
-[![Codacy](https://api.codacy.com/project/badge/coverage/UPDATE_WITH_CODACY_ID)](https://www.codacy.com/app/codacy/node-codacy-coverage)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6ca1e22946014852a349c0155fa88cc9)](https://www.codacy.com/manual/agm-dev/keyro?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=agm-dev/keyro&amp;utm_campaign=Badge_Grade)
+[![Codacy](https://api.codacy.com/project/badge/coverage/6ca1e22946014852a349c0155fa88cc9)](https://www.codacy.com/app/codacy/node-codacy-coverage)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/agm-dev/keyro)
 ![GitHub All Releases](https://img.shields.io/github/downloads/agm-dev/keyro/total)
 ![GitHub](https://img.shields.io/github/license/agm-dev/keyro)
 
-## What is this?
+## What is this
 
 Keyro is just a simple utility to store an array of values and return the 'next one' on every 'get' access.
 
